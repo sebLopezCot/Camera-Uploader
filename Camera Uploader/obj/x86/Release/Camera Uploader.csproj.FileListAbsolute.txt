@@ -1,0 +1,19 @@
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\bin\Release\Camera Uploader.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\bin\Release\Camera Uploader.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.MainWindow.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.ProgressDialog.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.Properties.Resources.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.pdb
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.exe
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.pdb
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\bin\Release\Camera Uploader.exe
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\bin\Release\Camera Uploader.pdb
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.MainWindow.resources
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.ProgressDialog.resources
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera_Uploader.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Camera Uploader\Camera Uploader\obj\x86\Release\Camera Uploader.csproj.GenerateResource.Cache
